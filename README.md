@@ -1,7 +1,7 @@
-# Nahom Ketema - Portfolio Website
+# Nahom Ketema - Portfolio Website ( https://nahomk.netlify.app )
 
 A modern, dark-themed portfolio website showcasing my projects, skills, and contact information.
-
+Hosted on Netlify https://nahomk.netlify.app
 ## Description
 
 This is a personal portfolio website created as a single-page application with a sleek dark mode design. The website features a responsive layout with smooth animations and interactive elements, built using raw HTML and CSS without any frameworks.
